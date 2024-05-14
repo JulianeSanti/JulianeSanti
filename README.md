@@ -46,7 +46,7 @@ minha_biblioteca.adicionar_livro(livro3)
 
 minha_biblioteca.listar_livros()
 
-# Suponha que você doou o livro "Dom Quixote"
+# Duando o livro "Dom Quixote"
 minha_biblioteca.remover_livro("Dom Quixote")
 
 minha_biblioteca.listar_livros()
